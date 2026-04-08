@@ -30,7 +30,7 @@ import net.minecraft.util.math.Vec3d;
 
 import java.util.Set;
 
-public class BowAimbot extends Module {
+public class OwenIsCool extends Module {
     private final SettingGroup sgGeneral = settings.getDefaultGroup();
 
     private final Setting<Double> range = sgGeneral.add(new DoubleSetting.Builder()
